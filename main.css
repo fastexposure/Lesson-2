@@ -1,0 +1,20 @@
+body {
+	background: lavender;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+.contact {
+	text-align: center;
+}
+li {
+	font-size: 20px;
+	margin: 0 20px;
+	display: inline-block;
+}
+.right {
+	text-align: right;
+}
